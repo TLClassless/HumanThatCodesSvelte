@@ -35,4 +35,13 @@
         align-items: center;
         justify-content: center;
     }
+
+    .intro {
+        margin: 0 0 20pt 0;
+        font-size: 40pt;
+    }
+
+    .intro a {
+        color: #33cbe6;
+    }
 </style>
